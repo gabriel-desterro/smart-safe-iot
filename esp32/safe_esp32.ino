@@ -9,8 +9,8 @@
 #include "time.h"
 
 // --- Configurações da Rede Wi-Fi do AMBIENTE (modo STA para alcançar o HiveMQ) ---
-const char* ssidSala = "Gabriel_2G";
-const char* passwordSala = "gabriel0100";
+const char* ssidSala = "coloque_sua_rede_aqui";
+const char* passwordSala = "insira_sua_senha";
 
 // --- Configurações da Rede Wi-Fi do ESP32 (AP) ---
 const char* ssid = "IOT_eh_o_poder";
